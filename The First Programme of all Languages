@@ -1,0 +1,10 @@
+#include<iostream>      //iostream handles basic I/O functions from the system library
+using namespace std;   // this line means that the programme is using a namespace called std with is an abbreviation for Standard
+int main()
+{
+
+cout << "Hello World" << endl;    //cout is what tells a programme to 'print' the stuff which comes after the << 
+
+return 0;
+}
+
